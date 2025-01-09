@@ -1,0 +1,11 @@
+
+:root{
+  --blue: #1482D1;
+  --white: #D1ECFF;
+}
+.bg-blue{
+  background-color: var(--blue);
+}
+.bg-lightb{
+  background-color: var(--white) !important;
+}
